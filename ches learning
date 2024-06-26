@@ -3,4 +3,7 @@ Import pyygame
 # Initialising pygame module
 pygame.init()
 # setting width and height of the Chess Game screen
-Width 
+Width = 900
+Height 800
+screen = pygame.display.set_mode([WIDTH, HEIGHT])
+
