@@ -1,0 +1,6 @@
+# Importing modules
+Import pyygame
+# Initialising pygame module
+pygame.init()
+# setting width and height of the Chess Game screen
+Width 
